@@ -1,0 +1,6 @@
+[book]
+authors = ["《程序员杂志》"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "AI工程师职业指南"
